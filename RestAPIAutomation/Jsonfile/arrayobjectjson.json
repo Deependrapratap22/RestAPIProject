@@ -1,0 +1,24 @@
+ {
+      "firstname": "Anuj",
+      "lastnname": "Verma",
+      "Address": [
+        {
+          "HouseNo": "65",
+          "Area": "Sultanpur",
+          "city": "Delhi",
+          "Landmark": "Sharma Store",
+          "AddressType": "Primary Address",
+          "Pincode": "110030"
+        },
+        {
+          "HouseNo": "202",
+          "Area": "kanuwani",
+          "city": "jaunpur",
+          "Landmark": "petrol pump",
+          "AddressType": "Secondry Address",
+          "Pincode": "22146"
+        }
+      ],
+      "company": "sapient",
+      "id": "2"
+ }
