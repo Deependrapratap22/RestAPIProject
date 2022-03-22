@@ -20,7 +20,7 @@ public class SimpleJson {
 		
         Response response=
         		given().contentType(ContentType.JSON).body(jsonBody.toString())
-        		.when().put("http://localhost:3000/TechLead");
+        		.when().post("http://localhost:3000/TechLead");
 		
         System.out.println("Status code==>"+response.statusCode());
 
